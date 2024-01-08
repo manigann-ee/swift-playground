@@ -6,6 +6,7 @@
 *.xcbkptlist
 *.xcworkspace
 
+
 fastlane/.builds/
 xcuserdata/
 
